@@ -1,4 +1,13 @@
-## Hi there 👋
+## Hi, I'm Sergio 👋
+
+My name is Sergio, and I studied the **Bachelor's Degree in Computer Engineering** at the **University of Coruña**, specifically specializing in **Software Engineering**. Currently, I am working part-time (4 hours) and pursuing the Master's Degree in Computer Engineering (MUEI) at the University of Coruña.
+
+If I had to say something that clearly defines me, it would be my capacity for hard work and adaptation, along with a collaborative spirit and a positive attitude towards challenges.
+
+## You can find me on:
+
+* [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/sergio-goyanes-legazpi/) [Sergio Goyanes Legazpi](https://www.linkedin.com/in/sergio-goyanes-legazpi/)
+* [![Email](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail)](mailto:sergiogoyaneslegazpi@gmail.com) [sergiogoyaneslegazpi@gmail.com](mailto:sergiogoyaneslegazpi@gmail.com)
 
 <!--
 **sergio-legazpi/sergio-legazpi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
