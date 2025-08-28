@@ -4,10 +4,6 @@ My name is Sergio, and I studied the **Bachelor's Degree in Computer Engineering
 
 If I had to say something that clearly defines me, it would be my capacity for hard work and adaptation, along with a collaborative spirit and a positive attitude towards challenges.
 
-## 🚀 Highlighted Contributions
-
-- [**Poster**](https://github.com/alejandrobujan/poster) - I worked across all layers of this project, developing some of its core features.
-
 ## 🌐 You can find me on
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sergio_Goyanes_Legazpi-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergio-goyanes-legazpi/)
