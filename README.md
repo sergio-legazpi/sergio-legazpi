@@ -6,8 +6,8 @@ If I had to say something that clearly defines me, it would be my capacity for h
 
 ## You can find me on:
 
-* [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/sergio-goyanes-legazpi/) [Sergio Goyanes Legazpi](https://www.linkedin.com/in/sergio-goyanes-legazpi/)
-* [![Email](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail)](mailto:sergiogoyaneslegazpi@gmail.com) [sergiogoyaneslegazpi@gmail.com](mailto:sergiogoyaneslegazpi@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sergio_Goyanes_Legazpi-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergio-goyanes-legazpi/)
+[![Email](https://img.shields.io/badge/Email-sergiogoyaneslegazpi@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sergiogoyaneslegazpi@gmail.com)
 
 <!--
 **sergio-legazpi/sergio-legazpi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
