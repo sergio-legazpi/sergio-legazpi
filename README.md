@@ -8,18 +8,20 @@ If I had to say something that clearly defines me, it would be my capacity for h
 
 ### HFLAV FAIR Client
 
-External project developed using tools and infrastructure provided by  
-**HFLAV (Heavy Flavor Averaging Group)**, a scientific collaboration associated with **CERN**.
+Scientific software project developed in collaboration with **HFLAV (Heavy Flavor Averaging Group)**, an international collaboration associated with **CERN**.
 
-The project provides a FAIR-compliant client to access and interact with HFLAV data.
+This project provides a **FAIR-compliant Python client** that acts as a bridge between scientific data repositories and end users, with **Zenodo** as the primary backend. It automates dataset discovery, download, and validation, reducing manual data handling while improving reproducibility, traceability, and reuse of official HFLAV results.
+
+**Key features:**
+- FAIR-compliant data access workflows  
+- Automated discovery and retrieval of datasets  
+- JSON Schema–based data and metadata validation  
+- High-level Python API for scientific analysis  
+- Extensible, backend-agnostic architecture  
+- Support for reproducible and open science
 
 🔗 **Repository:** https://gitlab.cern.ch/hflav/shared/hflav-fair-client
 
-**Technologies & concepts:**
-- FAIR data principles
-- Scientific data access
-- Client–server interaction
-- Open science tooling
 
 ## 🌐 You can find me on
 
