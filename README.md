@@ -1,8 +1,8 @@
 # Hi, I'm Sergio 👋
 
-My name is Sergio, and I studied the **Bachelor's Degree in Computer Engineering** at the **University of Coruña**, specifically specializing in **Software Engineering**. Currently, I am pursuing the Master's Degree in Computer Engineering (MUEI) at the University of Coruña.
+Computer Engineer with a strong work ethic and a growth mindset.
 
-If I had to say something that clearly defines me, it would be my capacity for hard work and adaptation, along with a collaborative spirit and a positive attitude towards challenges.
+I value adaptability, collaboration, and tackling challenges that push me to improve.
 
 ## 🚀 External Projects
 
